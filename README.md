@@ -11,7 +11,7 @@ The goal of this project is to analyze;
 
 •	Bottom 5 countries of confirmed cases
 
-•	Yealy reported confirmed and death cases
+•	Yearly reported confirmed and death cases
 
 •	The month with high confirm cases across the year
 
