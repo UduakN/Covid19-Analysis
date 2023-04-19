@@ -17,6 +17,10 @@ The goal of this project is to analyze;
 
 •	Top 5 countries that recorded high recovered cases
 
+# Tool used
+
+Microsoft Excel
+
 # Below steps were taken to accomplish this project
 
 •	Downloading dataset from the web
@@ -48,6 +52,10 @@ The data columns includes;
 •	Death cases
 
 •	Recovered cases
+
+# Data Visualisation
+
+![covid 19](https://user-images.githubusercontent.com/128192166/233205625-bae66d24-9085-4b4b-8189-b06464097f9c.png)
 
 # Summary of Findings
 
